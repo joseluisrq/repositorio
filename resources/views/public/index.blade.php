@@ -177,7 +177,7 @@
             <div class="span4">
               <div class="logo">
                 <a href="index.html"><img src="{{asset("assets/public/asset/img/")}}/logo.png" width="200px" alt="" class="logo" /></a>
-                <h1>Slogan de empresa</h1>
+             
               </div>
             </div>
             <div class="span8">
